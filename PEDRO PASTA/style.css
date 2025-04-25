@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(190, 179, 179);
+}
+.Cartao {
+    width: 500px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 200px 0;
+    background-color: rgb(182, 182, 182);
+}
+#foto1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.escrita {
+
+    width: 1000px;
+    height: 500px;
+
+}
